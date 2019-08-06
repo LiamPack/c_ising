@@ -13,4 +13,5 @@ video encoder such as ~x264~:
 ```
 
 Then you get a nice ol' video.
+
 ![ising model!](video.gif)
